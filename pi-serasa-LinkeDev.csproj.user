@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\DELL\Desktop\serasa\pi-serasa-LinkeDev\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Assinar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AssinarBTN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CriarC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EntrarC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Inicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="lkJatenho1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PerfilAssinante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PerfilCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Templates.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="trocaBotoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="trocaMenuESQ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TrocaPerfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
